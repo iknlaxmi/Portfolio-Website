@@ -4,7 +4,7 @@ nav {
   display: block;
   padding: 0.7rem, 1.7rem;
   z-index: 2;
-  position: left;
+  position: fixed;
   left: 50%;
   transform: translateX(-50%);
   bottom: 2rem;
